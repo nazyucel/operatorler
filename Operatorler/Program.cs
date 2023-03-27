@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Operatorler
+namespace operatorler
 {
     class Program
     {
